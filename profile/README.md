@@ -35,13 +35,7 @@ CeyLabs is a leader in web3 community building and web3 development. We speciali
 - **Server Manager:** We use `sm.ceyl.one` as our server management tool to handle backend deployments smoothly and efficiently.
 - **Frontend Deployment:** Frontend updates are deployed via Vercel. Ensure that all merges into the `main` branch are production-ready, as they will be automatically deployed to the live environment.
 
-## Contributing
-We appreciate contributions from all developers. To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Submit a pull request against our `development` branch.
-
 ## Contact Us
-For more information, please visit our [website](https://www.ceylabs.com) or reach out directly through our contact channels.
+For more information, please visit our [website](https://www.ceylabs.io) or reach out directly through our contact channels.
 
 Thank you for being part of our community!
