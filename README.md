@@ -22,6 +22,8 @@ CeyLabs is a leader in web3 community building and web3 development. We speciali
   - `FE` - Front End
   - `BE` - Back End
   - `WP` - WordPress
+  - `TGBot` - Telegram Bot
+  - `TMA` - Telegram Mini App
   - `PWA` - Progressive Web App
 
 ### Branching Strategy
