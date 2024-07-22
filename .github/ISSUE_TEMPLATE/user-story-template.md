@@ -1,17 +1,8 @@
 ---
-name: User Story Template
-about: Describe this issue template's purpose here.
-title: "[STORY]"
+name: Create a new User Story
+about: Use this to create a new user story that falls under an epic
+title: "📖 As a USER who PRECONDITIONS, I want to DO_THING so I can ACCOMPLISH_GOAL."
 labels: story
-assignees: cmnisal
-
----
-
----
-name: User Story Template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
 assignees: ''
 
 ---
@@ -25,15 +16,14 @@ As a USER who PRECONDITIONS, I want to DO_THING so I can ACCOMPLISH_GOAL.
 
 - [ ] AC1
 - [ ] AC2
-- [ ] Mobile ok
-- [ ] Tested
 
+## Task(s)
+- [ ] Linked Task Issue #1
+- [ ] Linked Task Issue #2
 
 ## Assets
 
 - Mockup: 
 
 
-## NOTES
-
--
+## EXTRA NOTES
