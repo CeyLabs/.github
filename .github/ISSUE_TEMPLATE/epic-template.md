@@ -1,21 +1,21 @@
 ---
-name: Epic Template
+name: Create a new Epic
 about: For high-level, related sets of features and journeys.
-title: ''
-labels: ''
+title: "☄️ Describe the Epic"
+labels: epic
 assignees: ''
 
 ---
 
 ## Problem
-What problem are we solving with? Is this epic part of the planned features, and which ones?
+Explain your problem statement here that's be resolved upon completion of this epic.
 
 ## How did we discover this problem?
 How did this problem originate? If it was revealed through user feedback, how was that feedback received and from whom?
 
-## Job Story(s)
-- What are the [job stories](https://thoughtbot.com/blog/converting-to-jobs-stories) that frame the users' context, motivations and goals?
-- Template: When I [situation], I want to [motivation] so I can [outcome/benefit].
+## User Story(s)
+- [ ] Linked Story Issue #1
+- [ ] Linked Story Issue #2
 
 ## What are we planning to do about it?
 - What is the scope of the design and engineering work required for this project?

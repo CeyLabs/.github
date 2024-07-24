@@ -1,13 +1,14 @@
 ---
-name: User Story Template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
+name: Create a new Task
+about: Use this to create a task that falls under a user story.
+title: '🎯 Describe the task'
+labels: task
 assignees: ''
+projects: [6]
 
 ---
 
-## Story
+## Task
 
 As a USER who PRECONDITIONS, I want to DO_THING so I can ACCOMPLISH_GOAL.
 
@@ -16,15 +17,11 @@ As a USER who PRECONDITIONS, I want to DO_THING so I can ACCOMPLISH_GOAL.
 
 - [ ] AC1
 - [ ] AC2
-- [ ] Mobile ok
-- [ ] Tested
-
 
 ## Assets
 
 - Mockup: 
 
-
-## NOTES
+## EXTRA NOTES
 
 -
