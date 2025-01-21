@@ -25,6 +25,7 @@ CeyLabs is a leader in web3 community building and web3 development. We speciali
   - `TGBot` - Telegram Bot
   - `TMA` - Telegram Mini App
   - `PWA` - Progressive Web App
+  - `GScript` - Google App Script
 
 ### Branching Strategy
 - **Main Branch:** The `main` branch is the source of truth and contains the production-ready code.
