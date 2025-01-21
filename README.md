@@ -42,6 +42,6 @@ We appreciate contributions from all developers. To contribute:
 3. Submit a pull request against our `development` branch.
 
 ## Contact Us
-For more information, please visit our [website](https://www.ceylabs.com) or reach out directly through our contact channels.
+For more information, please visit our [website](https://www.ceylabs.io) or reach out directly through our contact channels.
 
 Thank you for being part of our community!
