@@ -1,14 +1,12 @@
 <p align="center">
-  <p align="center">
    <img width="150" height="150" src="profile/assets/CeyLabs LLC.svg" alt="Logo">
-  </p>
-	<h1 align="center"><b>CeyLabs</b></h1>
-	<p align="center">
-		Where Blockchain Meets Community.
+</p>
+  <h1 align="center"><b>CeyLabs</b></h1>
+  <p align="center">
+    Where Blockchain Meets Community.
     <br />
     <a href="https://ceylabs.io"><strong>CeyLabs.io »</strong></a>
   </p>
-</p>
 
 ## About Us
 
